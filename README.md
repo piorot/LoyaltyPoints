@@ -12,10 +12,6 @@
 
 A command-line application to manage customer loyalty points.
 
-## Try it Now
-
-<iframe src="https://stackblitz.com/github/piorot/LoyaltyPoints?embed=1&file=README.md&hideExplorer=1&view=editor" width="100%" height="500px" style="border: 0; border-radius: 4px; overflow: hidden;"></iframe>
-
 ## Requirements
 
 The application supports two main operations:
