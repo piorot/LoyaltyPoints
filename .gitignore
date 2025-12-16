@@ -12,4 +12,3 @@ yarn-error.log*
 /dist/
 /.idea/
 /.claude/
-/CLAUDE.md
