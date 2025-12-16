@@ -1,9 +1,20 @@
 # Customer Loyalty Points System
 
-![Tests](https://github.com/piorot/LoyaltyPoints/actions/workflows/test.yml/badge.svg)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/piorot/LoyaltyPoints)
+<p align="center">
+  <a href="https://stackblitz.com/github/piorot/LoyaltyPoints">
+    <img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz">
+  </a>
+  <br/>
+  <a href="https://github.com/piorot/LoyaltyPoints/actions/workflows/test.yml">
+    <img src="https://github.com/piorot/LoyaltyPoints/actions/workflows/test.yml/badge.svg" alt="Tests">
+  </a>
+</p>
 
 A command-line application to manage customer loyalty points.
+
+## Try it Now
+
+<iframe src="https://stackblitz.com/github/piorot/LoyaltyPoints?embed=1&file=README.md&hideExplorer=1&view=editor" width="100%" height="500px" style="border: 0; border-radius: 4px; overflow: hidden;"></iframe>
 
 ## Requirements
 
