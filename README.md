@@ -1,6 +1,7 @@
 # Customer Loyalty Points System
 
 ![Tests](https://github.com/piorot/LoyaltyPoints/actions/workflows/test.yml/badge.svg)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/piorot/LoyaltyPoints)
 
 A command-line application to manage customer loyalty points.
 
